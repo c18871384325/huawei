@@ -1,5 +1,5 @@
 package huawei
 
-func huawei() string {
+func Huawei() string {
 	return "This is package huawei"
 }
